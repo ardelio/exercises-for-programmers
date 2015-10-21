@@ -21,5 +21,11 @@ describe('TipCalculator', () => {
         tipCalculator.tip().should.eql(subject.outputs.tip)
       })
     })
+
+    describe('#total', () => {
+      it(`will return \$${subject.outputs.total}`, () => {
+        tipCalculator.total().should.eql(subject.outputs.total)
+      })
+    })
   })
 })
