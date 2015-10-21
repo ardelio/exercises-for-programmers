@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/asceresini/exercises-for-programmers/issues"
   },
-  "homepage": "https://github.com/asceresini/exercises-for-programmers"
+  "homepage": "https://github.com/asceresini/exercises-for-programmers",
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
 }
