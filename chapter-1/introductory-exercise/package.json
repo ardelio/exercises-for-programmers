@@ -4,7 +4,7 @@
   "description": "Solution to introductory exercise from \"Exercises for Programmers\" by Brian P. Hogan",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/asceresini/exercises-for-programmers",
   "devDependencies": {
+    "babel": "^5.8.23",
+    "mocha": "^2.3.3",
     "should": "^7.1.1"
   }
 }
