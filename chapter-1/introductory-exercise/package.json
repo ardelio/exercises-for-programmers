@@ -1,0 +1,19 @@
+{
+  "name": "introductory-exercise",
+  "version": "1.0.0",
+  "description": "Solution to introductory exercise from \"Exercises for Programmers\" by Brian P. Hogan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asceresini/exercises-for-programmers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asceresini/exercises-for-programmers/issues"
+  },
+  "homepage": "https://github.com/asceresini/exercises-for-programmers"
+}
