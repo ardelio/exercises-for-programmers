@@ -11,6 +11,11 @@
   "devDependencies": {
     "babel": "^5.8.23",
     "mocha": "^2.3.3",
+    "mock-stdin": "^0.3.0",
     "should": "^7.1.1"
+  },
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "inquirer": "^0.11.0",
   }
 }
